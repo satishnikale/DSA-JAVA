@@ -27,5 +27,8 @@ public class BinarySearch{
         int target = 8;
 
         System.out.println(binarySearch(arr, target));
+
+        // Time complexity : O(N)
+        // Space complexity : O(1)
     }
 }
